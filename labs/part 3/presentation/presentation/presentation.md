@@ -45,7 +45,7 @@ header-includes:
   * Студент группы НКАбд-04-23
   * Российский университет дружбы народов
   * [1132239659@pfur.ru]
-  * <https://github.com/magister6239/study_2023-2024_os-intro>
+  * <https://github.com/magister6239/project>
 
 # Вводная часть
 
